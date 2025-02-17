@@ -52,7 +52,6 @@ public class MainWindowViewModel : BaseConnectedObject
 
     private async Task InitializeAsync()
     {
-        // Пример загрузки данных из базы данных
         // var dbContacts = await Service.Dal_GetAllBooks_Async();
         // foreach (var contact in dbContacts)
         // {
